@@ -37,6 +37,7 @@ module.exports = function friendlistFix(d) {
 
 	d.hook('S_UPDATE_FRIEND_INFO', '*', event => {
 		if (!updateFriends) {
+			if (event.friends == undefined || event.personalNote == undefined) return;
 			if (event.friends[0].status == 0) {
 				d.send('S_DUNGEON_EVENT_MESSAGE', '*', {
 					type: 1,
