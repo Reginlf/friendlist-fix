@@ -1,0 +1,10 @@
+{
+    "disableAutoUpdate": true,
+    "name": "friendlist-fix",
+    "author": "Regini",
+    "description": "Fixes the years old friendlist crash/freeze bug",
+    "version": "1.0",
+    "options": {
+        "reloadable": true
+    }
+}
