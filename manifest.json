@@ -2,7 +2,7 @@
 	"files": {
 		"index.js": "fa860481b467a4c53f85b6f3a442ab1b3aa1f17baaa7fe3ec97500b6936fbd9e",
 		"module.config.json": "c0a16dfca2dc00eb2f4c5670a98fcc163fd4f85c34b04fe825e6c3e79de88ca1",
-		"module.json": "312834868a34fb34187e2798a644025ee8969ba38706120413523c51629168c0"
+		"module.json": "e3b8db93cdaf52863ef4e0b69ace3627557cd2ad732f0402885e58c0bf06f661"
 	},
 	"defs": {
 		"C_UPDATE_FRIEND_INFO": 1,

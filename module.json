@@ -6,6 +6,6 @@
     "version": "1.0",
     "options": {
         "reloadable": true
-    }
+    },
 	"servers": ["https://raw.githubusercontent.com/Reginlf/friendlist-fix/main/"]
 }
