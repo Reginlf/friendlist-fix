@@ -7,5 +7,5 @@
     "options": {
         "reloadable": true
     }
-	"servers": ["https://raw.githubusercontent.com/Reginlf/friendlist-fix/master/"]
+	"servers": ["https://raw.githubusercontent.com/Reginlf/friendlist-fix/main/"]
 }
