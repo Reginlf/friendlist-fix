@@ -1,5 +1,5 @@
 {
-    "disableAutoUpdate": true,
+    "disableAutoUpdate": false,
     "name": "friendlist-fix",
     "author": "Regini",
     "description": "Fixes the years old friendlist crash/freeze bug",
@@ -7,4 +7,5 @@
     "options": {
         "reloadable": true
     }
+	"servers": ["https://raw.githubusercontent.com/Reginlf/friendlist-fix/master/"]
 }

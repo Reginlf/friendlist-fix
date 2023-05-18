@@ -55,5 +55,14 @@ module.exports = function friendlistFix(d) {
 
 		updateFriends = false;
 	});
+
+	//Save and reload in game
+	this.saveState = () => {
+        console.log("Reloading reset")
+    };
+    this.loadState = state => {
+        console.log("Finished reloading.")
+    };
+    this.destructor = () => {};
 	
 }
