@@ -1,15 +1,23 @@
 {
 	"files": {
-		"index.js": "74616daf7801e25e2a29bb9fce694b7787e367e5f587a5f406a7141965149527",
+		"index.js": "15602171a67a46548e93762bb748e83aae9e99726d44b8f4af850408d483b6fc",
+		"manifest.json": "61191b1a9aa69a4344a088c8b38b3e56cda00f69eebefe33d625b88ffe25646a",
 		"module.config.json": "c0a16dfca2dc00eb2f4c5670a98fcc163fd4f85c34b04fe825e6c3e79de88ca1",
-		"module.json": "e3b8db93cdaf52863ef4e0b69ace3627557cd2ad732f0402885e58c0bf06f661"
+		"module.json": "e3b8db93cdaf52863ef4e0b69ace3627557cd2ad732f0402885e58c0bf06f661",
+		"Newtonsoft.Json.dll": "564e6201dbf6354460d9ca180f0752d50dd7496fff49e05f67a9af42a2e772c7",
+		"S_FRIEND_LIST.99.def": "a27b2497f86704afcd67a6bc5eaff3eddf3539be4d0e43a7ed9d276439abaf08",
+		"S_UPDATE_FRIEND_INFO.99.def": "b936010c089a8f296082d920b38ac0b251e3bbdbc7a523a688033eb39a037eec"
 	},
 	"defs": {
 		"C_UPDATE_FRIEND_INFO": 1,
-		"S_UPDATE_FRIEND_INFO": 2,
-		"S_FRIEND_LIST": 2,
+		"S_UPDATE_FRIEND_INFO": 99,
+		"S_FRIEND_LIST": 99,
 		"S_LOAD_TOPO": 3,
 		"S_SELECT_USER": 2,
-		"S_DUNGEON_EVENT_MESSAGE": 2
+		"S_DUNGEON_EVENT_MESSAGE": 2,
+		"S_RESULT_CHANGE_MY_PROFILE": 1,
+		"S_DELETE_FRIEND": 1,
+		"C_EDIT_FRIEND_GROUP": 1,
+		"C_ADD_FRIEND_GROUP": 2
 	}
 }

@@ -1,0 +1,16 @@
+# majorPatchVersion < 101
+
+array  friends
+- uint32 playerId
+- int32  level
+- int32  race
+- int32  class
+- int32  gender
+- int32  status
+- uint32 worldId
+- uint32 guardId
+- uint32 sectionId
+- bool   updated
+- int16  unk5
+- int64  lastOnline
+- string name
